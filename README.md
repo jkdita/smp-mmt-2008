@@ -26,7 +26,7 @@
 | 22 | Iin | Umbul Timun | P |
 | 23 | Imam Mustakim | Blok D | L |
 | 24 | Jais Agung Prawoto | Blok D | L |
-| 25 | Jaka Ardita | Blok A | L |
+| 25 | Jaka | Blok A | L |
 | 26 | Jani | Belakang Sekolahan | L |
 | 27 | Jawiatun | Blok D | P |
 | 28 | Kadek Sumarte | Ethanol | L |
@@ -39,29 +39,29 @@
 | 35 | Mika |  | P |
 | 36 | Misbahudin | Blok A | L |
 | 37 | Muhson | Pasar | L |
-| 38 | Nasrul | Blok B | L |
-| 39 | Novita | Wonorejo | P |
-| 40 | Nung | Blok B | P |
-| 41 | Nur Hasanah | Blok D | P |
-| 42 | Nur Sulaiman | Pagar Buana | L |
-| 43 | Nurudin | Blok D | L |
-| 44 | Pujud Wahyudi | Blok D | L |
-| 45 | Ria Fitriana | Wonorejo | P |
-| 46 | Riana | Jembat Besi | P |
-| 47 | Riduan | Jembat Besi | L |
-| 48 | Robiana | Blok B | P |
-| 49 | Samsuri | Blok B | L |
-| 50 | Sigit | Pagar Buana | L |
-| 51 | Siswanto | Blok D | L |
-| 52 | Siti Kholifah | Blok D | P |
-| 53 | Siti Rohani | Blok C | P |
-| 54 | Siti Wulandari | Pagar Buana | P |
-| 55 | Sri Lestari | Blok B | P |
-| 56 | Sugianto | Blok A | L |
-| 57 | Sukis | Pagar Buana | L |
-| 58 | Suryani | Blok C | P |
-| 59 | Suyan | Blok B | L |
-| 60 | Topa | Pagar Buana | L |
+| 38 | Mustofa | Pagar Buana | L |
+| 39 | Nasrul | Blok B | L |
+| 40 | Novita | Wonorejo | P |
+| 41 | Nung | Blok B | P |
+| 42 | Nur Hasanah | Blok D | P |
+| 43 | Nur Sulaiman | Pagar Buana | L |
+| 44 | Nurudin | Blok D | L |
+| 45 | Pujud Wahyudi | Blok D | L |
+| 46 | Ria Fitriana | Wonorejo | P |
+| 47 | Riana | Jembat Besi | P |
+| 48 | Riduan | Jembat Besi | L |
+| 49 | Robiana | Blok B | P |
+| 50 | Samsuri | Blok B | L |
+| 51 | Sigit | Pagar Buana | L |
+| 52 | Siswanto | Blok D | L |
+| 53 | Siti Kholifah | Blok D | P |
+| 54 | Siti Rohani | Blok C | P |
+| 55 | Siti Wulandari | Pagar Buana | P |
+| 56 | Sri Lestari | Blok B | P |
+| 57 | Sugianto | Blok A | L |
+| 58 | Sukis | Pagar Buana | L |
+| 59 | Suryani | Blok C | P |
+| 60 | Suyan | Blok B | L |
 | 61 | Trini Lestari | Pasar | P |
 | 62 | Watini | Blok B | P |
 | 63 | Wibowo | Blok A | L |
