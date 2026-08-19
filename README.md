@@ -26,7 +26,7 @@
 | 22 | Iin | Umbul Timun | P |
 | 23 | Imam Mustakim | Blok D | L |
 | 24 | Jais Agung Prawoto | Blok D | L |
-| 25 | Jaka | Blok A | L |
+| 25 | Jaka Ardita | Blok A | L |
 | 26 | Jani | Belakang Sekolahan | L |
 | 27 | Jawiatun | Blok D | P |
 | 28 | Kadek Sumarte | Ethanol | L |
