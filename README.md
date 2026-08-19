@@ -12,10 +12,10 @@
 | 8 | Batolah |  | P |
 | 9 | Dani Firmanto | Jambore | L |
 | 10 | Dwi |  | L |
-| 11 | Dwi Wahyuningsih | Nurhasanah Blok D | P |
+| 11 | Dwi Wahyuningsih | Blok D | P |
 | 12 | Eko | Pagar Buana | L |
 | 13 | Edi Setiawan | Blok A | L |
-| 14 | Eni Nofitsari | Blok C | P |
+| 14 | Eni Nofitasari | Blok C | P |
 | 15 | Ernaning | Pasar | P |
 | 16 | Erfina | Jambore | P |
 | 17 | Feri | Blok D | L |
@@ -38,9 +38,9 @@
 | 34 | Muhson | Pasar | L |
 | 35 | Nasrul | Blok B | L |
 | 36 | Novita | Wonorejo | P |
-| 37 | Nung | Blok D | P |
+| 37 | Nung | Blok B | P |
 | 38 | Nur Sulaiman | Pagar Buana | L |
-| 39 | Nurhasanah | Blok D | P |
+| 39 | Nur Hasanah | Blok D | P |
 | 40 | Nurudin | Blok D | L |
 | 41 | Pujud Wahyudi | Blok D | L |
 | 42 | Ria Fitriana | Wonorejo | P |
