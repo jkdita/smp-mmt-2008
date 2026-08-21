@@ -12,7 +12,7 @@
 | 8 | Batolah |  | P |
 | 9 | Dani Firmanto | Jambore | L |
 | 10 | Dwi |  | L |
-| 11 | Dwi Wahyuningsih | Blok D | P |
+| 11 | Dwi Wahyuni | Blok D | P |
 | 12 | Edi Setiawan | Blok A | L |
 | 13 | Eko | Pagar Buana | L |
 | 14 | Eni Nofitasari | Blok C | P |
@@ -63,13 +63,14 @@
 | 59 | Suryani | Blok C | P |
 | 60 | Suyan | Blok B | L |
 | 61 | Trini Lestari | Pasar | P |
-| 62 | Watini | Blok B | P |
-| 63 | Wibowo | Blok A | L |
-| 64 | Yadi Kabul | Pagar Buana | L |
-| 65 | Yuliana | Blok A | P |
+| 62 | Wahyuningsih |  | P |
+| 63 | Watini | Blok B | P |
+| 64 | Wibowo | Blok A | L |
+| 65 | Yadi Kabul | Pagar Buana | L |
+| 66 | Yuliana | Blok A | P |
 
 ---
 **Rekap:**
 - L = 32
-- P = 33
-- Total = 65
+- P = 34
+- Total = 66
