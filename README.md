@@ -46,7 +46,7 @@
 | 42 | Nur Hasanah | Blok D | P |
 | 43 | Nur Sulaiman | Pagar Buana | L |
 | 44 | Nurudin | Blok D | L |
-| 45 | Pujud Wahyudi | Blok D | L |
+| 45 | Pujud Wahyudi | Blok B | L |
 | 46 | Ria Fitriana | Wonorejo | P |
 | 47 | Riana | Jembat Besi | P |
 | 48 | Riduan | Jembat Besi | L |
